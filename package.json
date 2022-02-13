@@ -1,0 +1,17 @@
+{
+  "name": "tibber-ol-map",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Show homes and consumption on a map",
+  "main": "tibber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Einar Holen Helseth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-fetch": "^3.2.0"
+  }
+}
